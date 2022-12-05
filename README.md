@@ -13,4 +13,10 @@ https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
 https://www.cidadessustentaveis.org.br/dados-abertos
  
 
-Observação: Devido ao tamanho dos dados obtidos pelo INEP, eles serão tratados para reduzir seu volume e possibilitar/facilitar seu envio para o diretório do GitHub
+Hipóteses a serem testadas:
+
+1 - O tipo da escola (estadual, municipal ou particular) afeta a nota da redação?
+
+2 - O acesso à internet afeta a nota da redação?
+
+3 - A renda familiar está relacionada com a nota da redação?
