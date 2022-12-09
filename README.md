@@ -10,7 +10,7 @@ https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
 
 https://www.cidadessustentaveis.org.br/dados-abertos
  
-#Hipóteses a serem testadas:
+Hipóteses a serem testadas:
 
 1 - O tipo da escola (estadual, municipal ou particular) afeta a nota da redação?
 
@@ -18,7 +18,7 @@ https://www.cidadessustentaveis.org.br/dados-abertos
 
 3 - A renda familiar está relacionada com a nota da redação?
 
-#Procedimentos adotados:
+Procedimentos adotados:
 
 a - os dados brutos baixados do site do Inep foram tratados, retirando os dados sem relação com as hipóteses levantadas;
 
@@ -33,7 +33,7 @@ e - separou-se as variáveis de entrada e saída das bases de treino e teste;
 f - 
 
 
-#Resultados obtidos:
+Resultados obtidos:
 
 1 - O tipo da escola (estadual, municipal ou particular) afeta a nota da redação?
 
@@ -56,4 +56,12 @@ b -
 
 c - conclusão:
 
+
+Futuros estudos:
+
+1 - Verificar se o IDH do município tem relação com a nota da redação?
+
+2 - Verificar se a faixa etária tem relação com a nota da redação?
+
+3 - Verificar se o gênero tem relação com a nota da redação?
 
