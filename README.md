@@ -21,27 +21,39 @@ Hipóteses a serem testadas:
 Procedimentos adotados:
 
 a - os dados brutos baixados do site do Inep foram tratados, retirando os dados sem relação com as hipóteses levantadas;
+
 b - notou-se que os dados referentes ao tipo de escola estavam ausentes em mais de 70% da base de dados, então esta hipótese não será analisada;
+
 c - filtrou-se a base de dados utilizandp somente os alunos que tiveram nota maior que zero;
+
 d - separou-se a base de dados entre base de treino e base de teste;
+
 e - separou-se as variáveis de entrada e saída das bases de treino e teste;
+
 f - 
 
 
 Resultados obtidos:
 
 1 - O tipo da escola (estadual, municipal ou particular) afeta a nota da redação?
+
     HIPÓTESES NÂO FOI TESTADA
 
 2 - O acesso à internet afeta a nota da redação?
+
 a - nível de confiança:
+
 b - 
+
 c - conclusão:
 
 
 3 - A renda familiar está relacionada com a nota da redação?
+
 a - nível de confiança:
+
 b - 
+
 c - conclusão:
 
 
